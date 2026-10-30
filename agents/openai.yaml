@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xflie · X 帖子视频卡片"
+  short_description: "将 X 核心内容制作成中文竖版动态视频、封面与字幕，并在授权后发布"
+  default_prompt: "使用 $xflie 把这个 X 帖子的核心内容制作成中文动态视频卡片，先给我确认标题和口播稿。"
